@@ -1,0 +1,11 @@
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\bin\Debug\_22.Donguler_Proje.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\bin\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\bin\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\Pozitif-Carpanlari-Bulma-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\Pozitif-Carpanlari-Bulma-Uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\_22.Donguler_Proje.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\_22.Donguler_Proje.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\Pozitif-Carpanlari-Bulma-Uygulamasi.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\Pozitif-Carpanlari-Bulma-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Pozitif-Carpanlari-Bulma-Uygulamasi\Pozitif-Carpanlari-Bulma-Uygulamasi\obj\Debug\_22.Donguler_Proje.pdb

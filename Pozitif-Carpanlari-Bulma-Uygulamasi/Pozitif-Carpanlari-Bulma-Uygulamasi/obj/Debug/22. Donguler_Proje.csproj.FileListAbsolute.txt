@@ -1,0 +1,32 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\22. Donguler_Proje\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Software\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\bin\Debug\_22.Donguler_Proje.pdb
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\22. Donguler_Proje.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\22. Proje - Pozitif Çarpanları Bulan Uygulama\22. Donguler_Proje\obj\Debug\_22.Donguler_Proje.pdb
