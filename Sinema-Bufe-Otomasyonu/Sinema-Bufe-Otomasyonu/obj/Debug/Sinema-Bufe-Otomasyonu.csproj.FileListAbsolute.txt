@@ -1,0 +1,11 @@
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\bin\Debug\SinemaBufeOtomasyonu.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\bin\Debug\SinemaBufeOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\bin\Debug\SinemaBufeOtomasyonu.pdb
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\Sinema-Bufe-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\Sinema-Bufe-Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\_14.Proje___Sinema_Büfe_Satış_Uygulaması.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\SinemaBufeOtomasyonu.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\Sinema-Bufe-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\Sinema-Bufe-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\SinemaBufeOtomasyonu.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Sinema-Bufe-Otomasyonu\Sinema-Bufe-Otomasyonu\obj\Debug\SinemaBufeOtomasyonu.pdb

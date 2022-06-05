@@ -1,0 +1,11 @@
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\bin\Debug\SinemaBufeOtomasyonu.exe.config
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\bin\Debug\SinemaBufeOtomasyonu.exe
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\bin\Debug\SinemaBufeOtomasyonu.pdb
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\_14.Proje___Sinema_Büfe_Satış_Uygulaması.Form1.resources
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.Properties.Resources.resources
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.exe
+C:\Users\furka\Downloads\Compressed\Nesneye Yönelik Programlama\Kodlar - Murat Yücedağ\SinemaBufeOtomasyonu\14. Proje - Sinema Büfe Satış Uygulaması\obj\Debug\SinemaBufeOtomasyonu.pdb
