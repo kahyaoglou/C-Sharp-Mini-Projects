@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\bin\Debug\_19.Karar_Yapilari_Proje3.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\bin\Debug\_19.Karar_Yapilari_Proje3.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\bin\Debug\_19.Karar_Yapilari_Proje3.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\19. Karar_Yapilari_Proje3.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\_19.Karar_Yapilari_Proje3.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\_19.Karar_Yapilari_Proje3.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\19. Karar_Yapilari_Proje3.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\19. Karar_Yapilari_Proje3.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\_19.Karar_Yapilari_Proje3.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\19. Karar_Yapilari_Proje3\19. Karar_Yapilari_Proje3\obj\Debug\_19.Karar_Yapilari_Proje3.pdb
