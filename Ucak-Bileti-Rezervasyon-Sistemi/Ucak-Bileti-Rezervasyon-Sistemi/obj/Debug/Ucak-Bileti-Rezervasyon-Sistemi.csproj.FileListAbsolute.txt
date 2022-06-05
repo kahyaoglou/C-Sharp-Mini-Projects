@@ -1,0 +1,11 @@
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\bin\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.exe.config
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\bin\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\bin\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.pdb
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\Ucak-Bileti-Rezervasyon-Sistemi.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\Ucak-Bileti-Rezervasyon-Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\Ucak-Bileti-Rezervasyon-Sistemi.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\Ucak-Bileti-Rezervasyon-Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.exe
+C:\Users\furka\OneDrive\Masaüstü\Developez\Software\C# Language\Murat Yücedağ\Ucak-Bileti-Rezervasyon-Sistemi\Ucak-Bileti-Rezervasyon-Sistemi\obj\Debug\_07.Proje___Uçak_Bileti_Rezervasyon_Sistemi.pdb
