@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\bin\Debug\_20.Karar_Yapilari_Proje4.exe.config
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\bin\Debug\_20.Karar_Yapilari_Proje4.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\bin\Debug\_20.Karar_Yapilari_Proje4.pdb
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\20. Karar_Yapilari_Proje4.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\_20.Karar_Yapilari_Proje4.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\_20.Karar_Yapilari_Proje4.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\20. Karar_Yapilari_Proje4.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\20. Karar_Yapilari_Proje4.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\_20.Karar_Yapilari_Proje4.exe
+C:\Users\furka\OneDrive\Masaüstü\C#\Kodlar\20. Karar_Yapilari_Proje4\20. Karar_Yapilari_Proje4\obj\Debug\_20.Karar_Yapilari_Proje4.pdb
