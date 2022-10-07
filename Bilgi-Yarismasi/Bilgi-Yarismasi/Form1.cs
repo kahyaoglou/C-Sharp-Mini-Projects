@@ -20,6 +20,8 @@ namespace _20.Karar_Yapilari_Proje4
 
         private void BtnSonraki_Click(object sender, EventArgs e)
         {
+            BtnSonraki.Text = "Sonraki";
+            BtnSonraki.Focus();
             BtnA.Enabled = true; // önce bu tuşlar kullanılır olsun
             BtnB.Enabled = true;
             BtnC.Enabled = true;
@@ -113,6 +115,11 @@ namespace _20.Karar_Yapilari_Proje4
                 LblYanlis.Text = yanlis.ToString();
                 pictureBox2.Visible = true;
             }
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
 
         private void BtnC_Click(object sender, EventArgs e)

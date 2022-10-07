@@ -1,0 +1,10 @@
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\_20.Karar_Yapilari_Proje4.exe.config
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\_20.Karar_Yapilari_Proje4.exe
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\_20.Karar_Yapilari_Proje4.pdb
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\_20.Karar_Yapilari_Proje4.Form1.resources
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\_20.Karar_Yapilari_Proje4.Properties.Resources.resources
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\_20.Karar_Yapilari_Proje4.exe
+C:\Users\furka\source\repos\Mini-Projects\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\_20.Karar_Yapilari_Proje4.pdb
